@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-//zichen
+//zichen 100970732
 public class Client {
 	protected DatagramSocket socket;
 	protected int serverPort = 23;
